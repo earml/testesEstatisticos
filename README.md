@@ -1,0 +1,2 @@
+# testesEstatisticos
+Alguns testes estatísticos
